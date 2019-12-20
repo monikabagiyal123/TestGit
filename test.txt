@@ -1,10 +1,7 @@
 This is my first text file
 This is my MASTER BRANCH
-<<<<<<< HEAD
+
 Git tested by ME
-=======
-git is tested success
->>>>>>> f8d3f180a0bc8c3a241236980153e4ee676771f7
 
 
 
