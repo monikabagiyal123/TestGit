@@ -1,5 +1,6 @@
 This is my first text file
 This is my MASTER BRANCH
+Git tested by ME
 
 
 
