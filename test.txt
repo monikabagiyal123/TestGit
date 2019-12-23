@@ -1,7 +1,1 @@
-Git is a distributed version-control system for tracking changes in source code during software development.
-asdfghjklmnbvcxzqwertyuio
-Hlo I am Monika
-
-this is new conflict solve 
-
-dummy branch was deleted.
+this is master branch
